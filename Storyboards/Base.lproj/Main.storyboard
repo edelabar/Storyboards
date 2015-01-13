@@ -46,6 +46,32 @@
             </objects>
             <point key="canvasLocation" x="414" y="612"/>
         </scene>
+        <!--New VC 1-->
+        <scene sceneID="TCp-ep-jEl">
+            <objects>
+                <viewController title="New VC 1" id="Fa7-KL-XNR" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="Nyh-aI-O4Q"/>
+                        <viewControllerLayoutGuide type="bottom" id="5cB-dX-uCv"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="hzR-UI-RWX">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="New VC 1" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="KnX-Dv-0Gh">
+                                <rect key="frame" x="262" y="289" width="77" height="21"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="etw-7I-gdv" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1183" y="-138"/>
+        </scene>
         <!--View Controller-->
         <scene sceneID="vhw-MK-VEv">
             <objects>
