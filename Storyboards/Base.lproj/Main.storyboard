@@ -64,5 +64,31 @@
             </objects>
             <point key="canvasLocation" x="1183" y="611"/>
         </scene>
+        <!--New VC 2-->
+        <scene sceneID="uda-0e-si2">
+            <objects>
+                <viewController title="New VC 2" id="6yw-cH-s1B" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="2hC-DQ-PQy"/>
+                        <viewControllerLayoutGuide type="bottom" id="UOI-9x-vYy"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="5KE-WY-aUd">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="New VC 2" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="uhT-qs-qXd">
+                                <rect key="frame" x="262" y="289" width="77" height="21"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="N6K-eI-IaF" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1183" y="1323"/>
+        </scene>
     </scenes>
 </document>
