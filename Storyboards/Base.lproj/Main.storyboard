@@ -23,6 +23,24 @@
             </objects>
             <point key="canvasLocation" x="404" y="-931"/>
         </scene>
+        <!--VC 12-->
+        <scene sceneID="KPt-cJ-a8N">
+            <objects>
+                <viewController title="VC 12" id="f8P-Tg-yFW" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="ivJ-1t-Inw"/>
+                        <viewControllerLayoutGuide type="bottom" id="RlA-pb-esv"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="CWT-hZ-fDK">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="SRC-As-XY2" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-234" y="-931"/>
+        </scene>
         <!--VC 8-->
         <scene sceneID="esP-it-ESA">
             <objects>
@@ -39,7 +57,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="rz8-EE-bW1" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="404" y="-243"/>
+            <point key="canvasLocation" x="-234" y="-113"/>
         </scene>
         <!--VC 1-->
         <scene sceneID="Ye4-Lm-lAG">
@@ -196,7 +214,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Iyc-vo-AdO" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="416" y="-97"/>
+            <point key="canvasLocation" x="441" y="-113"/>
         </scene>
     </scenes>
 </document>
